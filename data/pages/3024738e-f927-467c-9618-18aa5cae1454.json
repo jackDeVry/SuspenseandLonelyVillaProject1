@@ -78,11 +78,11 @@
   "title": "Introduction ",
   "autogenerate": {
     "enabled": false,
-    "type": "custom"
+    "type": "home"
   },
   "slug": "introduction",
   "created_at": "2026-08-24T23:51:09.397Z",
   "created_by": "jackDeVry",
-  "updated_at": "2026-08-24T23:51:09.397Z",
+  "updated_at": "2026-08-24T23:51:25.361Z",
   "updated_by": "jackDeVry"
 }
