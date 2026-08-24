@@ -1,0 +1,88 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The "
+        },
+        {
+          "text": "Lonely Villa",
+          "italic": true
+        },
+        {
+          "text": " and "
+        },
+        {
+          "text": "Suspense ",
+          "italic": true
+        },
+        {
+          "text": "is an AVAnnotate project that explores how suspense is created through audiovisual form in D. W. Griffith’s 1909 film The Lonely Villa. Using time-based annotations, the project draws attention to specific moments in the film and examines how techniques such as editing, pacing, performance, framing, and music contribute to the development of tension. "
+        },
+        {
+          "text": "Rather ",
+          "bold": true,
+          "underline": true,
+          "highlight": "#e15b5b"
+        },
+        {
+          "text": "than simply presenting the film, the project uses annotation to encourage close audiovisual analysis, allowing viewers to move between the film itself and commentary on how suspense is constructed."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://upload.wikimedia.org/wikipedia/en/1/19/The_Lonely_Villa.jpg",
+      "caption": "(iMDb Source)",
+      "children": [
+        {
+          "text": ""
+        }
+      ],
+      "scale": 81
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Introduction ",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "introduction",
+  "created_at": "2026-08-24T23:51:09.397Z",
+  "created_by": "jackDeVry",
+  "updated_at": "2026-08-24T23:51:09.397Z",
+  "updated_by": "jackDeVry"
+}
